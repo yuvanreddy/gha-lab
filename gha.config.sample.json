@@ -1,0 +1,5 @@
+﻿{
+  "owner": "<GITHUB_OWNER>",
+  "repo":  "<GITHUB_REPO>",
+  "pat":   "<GITHUB_PAT>"
+}

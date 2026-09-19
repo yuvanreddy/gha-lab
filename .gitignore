@@ -1,0 +1,5 @@
+﻿gha.config.json
+.pat
+__pycache__/
+*.pyc
+.pytest_cache/
